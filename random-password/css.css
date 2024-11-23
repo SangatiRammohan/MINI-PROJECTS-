@@ -5,9 +5,8 @@
     font-family:Arial, Helvetica, sans-serif;
 }
 div{
-    width: 100vw;
-    height: 100vh;
-    min-height: 300px;
+    width: 500px;
+    height: 400px;
     box-shadow: 3px 4px 30px rgb(82, 81, 81);
     background-color: transparent;
     display: flex;
@@ -16,6 +15,7 @@ div{
     align-items: center;
     gap: 20px;
     border-radius: 10px;
+    margin: 20px 0 0 30px;
 
 }
 h1{
